@@ -1,1 +1,1 @@
-# themekit
+# ThemeKit
