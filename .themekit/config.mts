@@ -1,6 +1,6 @@
 import { defineConfig } from 'themekit-js'
 import RemoteAssets from 'vite-plugin-remote-assets'
-const siteBase="/" 
+const siteBase="/themekit/" 
 // https://vitepress.dev/reference/site-config
 const ThemeConfigJp={
   nav: []   
