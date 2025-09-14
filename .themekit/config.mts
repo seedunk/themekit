@@ -69,6 +69,7 @@ export default defineConfig({
       themeConfig:  ThemeConfigCn
     }
   },   
+   copyDir:"/",
   themeConfig: {
     logo:  '/seedunk.png', 
     nav: [
